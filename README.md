@@ -13,8 +13,8 @@ News
 ----
 
 **7/12/2021**
-- Added Leeful PS4_Hen mod with FW spoofing from 5.05 to v9.00.
-- Added Specter-505 back so you can send bin payload of yoour choice.
+- Added Leeful PS4-Hen mod with FW spoofing from 5.05 to v9.00.
+- Added Specter-505 back so you can send bin payload of your choice.
 
 
 **02/06/2018**
