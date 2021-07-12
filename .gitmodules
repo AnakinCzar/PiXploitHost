@@ -12,7 +12,7 @@
 	url = https://github.com/Cryptogenic/PS4-5.05-Kernel-Exploit.git
 [submodule "xvortex-hen-505"]
 	path = xvortex-hen-505
-	url = https://github.com/xvortex/ps4-hen-vtx.git
+	url = https://github.com/Leeful/PS4-HEN.git
 [submodule "xvortex-ftp-505"]
 	path = xvortex-ftp-505
 	url = https://github.com/xvortex/ps4-ftp-vtx.git
