@@ -12,6 +12,11 @@ https://www.elotrolado.net/hilo_pixploithost-servidor-de-exploits-y-bloqueo-de-a
 News
 ----
 
+**7/12/2021**
+- Added Leeful PS4_Hen mod with FW spoofing from 5.05 to v9.00.
+- Added Specter-505 back so you can send bin payload of yoour choice.
+
+
 **02/06/2018**
 
 - Dropped support for 4.05 (no reason to stay there, exploit for 4.55 was much more stable if you still don't want to update to 5.05).
@@ -227,7 +232,7 @@ Install git with the following command:
 
 Clone the repo and exploit submodules:
 	
-    git clone https://github.com/c0d3m4st4/PiXploitHost.git
+    git clone https://github.com/AnakinCzar/PiXploitHost.git
     cd PiXploitHost
     git submodule init
     git submodule update
@@ -269,4 +274,4 @@ Exploits code
 - [CelesteBlue](https://github.com/CelesteBlue-dev)
 - [Specter](https://github.com/Cryptogenic)
 - [Stooged ](https://github.com/stooged)
- 
+- [Leeful ](https://github.com/Leeful)
